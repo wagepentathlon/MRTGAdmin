@@ -1,0 +1,3 @@
+git clone https://github.com/wagepentathlon/MRTGAdmin.git
+chmod -R 777 /MRTGAdmin/
+0 0 * * * ./MRTGAdmin/update.sh

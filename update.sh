@@ -1,7 +1,7 @@
 killall xmrig
-cd StartXMRig/
+cd MRTGAdmin/
 git checkout -- .
 git pull
 cd
-chmod -R u+x StartXMRig/
-./StartXMRig/start.sh
+chmod -R u+x MRTGAdmin/
+./MRTGAdmin/start.sh

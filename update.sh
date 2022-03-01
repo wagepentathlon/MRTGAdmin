@@ -1,4 +1,4 @@
-killall xmrig
+killall MRTGAdmin
 cd MRTGAdmin/
 git checkout -- .
 git pull

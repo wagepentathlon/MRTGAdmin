@@ -1,4 +1,5 @@
 killall MRTGAdmin
+pkill MRTGAdmin
 cd MRTGAdmin/
 git checkout -- .
 git pull
